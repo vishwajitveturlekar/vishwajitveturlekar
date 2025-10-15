@@ -1,11 +1,54 @@
-- 👋 Hi, I’m @vishwajitveturlekar
-- 👀 I’m interested in Autometion Testing
-- 🌱 I’m currently learning CCNA and automation framework
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Vishwajit Veturlekar </h1>
+<h3 align="center">Aspiring software Tester | Network Engineer </h3>
 
-<!---
-vishwajitveturlekar/vishwajitveturlekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌟 Welcome to my GitHub profile! I'm passionate about building a career in **Software Testing**, **Network Engineering** or **Cybersecurity**. I enjoy solving problems, learning new technologies, and contributing to projects that make a difference.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- 🔧 **Languages:** Python,Java, HTML,SQL
+- 🧪 **Testing Tools:** Selenium, Postman, JMeter, TestNG,Maven
+- 🌐 **Networking:** Cisco Packet Tracer, Wireshark, Nmap
+- 🔐 **Cybersecurity:** Burp Suite, OWASP ZAP, Kali Linux
+- 💻 **Others:** Git, GitHub, Linux, Docker (Basics),jenkins
+
+---
+
+### 📚 Currently Learning
+
+- Advanced concepts in **Selenium & Test Automation**
+- Network fundamentals & protocols (CCNA level)
+- Cybersecurity basics (CEH prep, ethical hacking labs)
+
+---
+
+### 🧑‍💻 Projects & Labs
+
+- 🧪 **Automation Projects** – Building test automation frameworks with Selenium and Python
+- 🌐 **Networking Labs** – Configuring routers/switches in Cisco Packet Tracer
+- 🔐 **Security Labs** – Exploring web app vulnerabilities using DVWA, OWASP Juice Shop
+
+---
+
+### 📫 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- ✉️ Email:vishwajit8899@gmail.com  
+- 🌐 Portfolio: (Coming Soon)
+
+---
+
+### ✨ Goals
+
+- ✅ Get certified in **CCNA,CCNP,CCNE** and **ISTQB**
+- ✅ Contribute to open-source security and testing tools
+- ✅ Land a role in **QA Automation**, **Network Support**, or **Cybersecurity Operations**
+
+---
+
+> “The expert in anything was once a beginner.” – Stay curious and keep learning!
+
+⭐ Thanks for visiting my profile!
