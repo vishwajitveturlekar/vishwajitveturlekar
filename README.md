@@ -35,7 +35,7 @@
 
 ### 📫 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/vishwajit-veturlekar-10716538b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - ✉️ Email:vishwajit8899@gmail.com  
 - 🌐 Portfolio: (Coming Soon)
 
